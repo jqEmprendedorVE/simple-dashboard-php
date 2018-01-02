@@ -1,0 +1,147 @@
+[08-Dec-2017 04:09:17 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:09:17 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:09:35 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:09:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:09:54 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/ameda/public_html/config.php on line 9
+[08-Dec-2017 04:09:54 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:09:54 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:10:09 UTC] PHP Warning:  Unterminated comment starting line 9 in /home/ameda/public_html/config.php on line 9
+[08-Dec-2017 04:10:09 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:10:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:10:20 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:10:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:10:22 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:10:22 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:11:16 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:11:16 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:11:30 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:11:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:12:13 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:12:13 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:14:24 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:14:24 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:15:27 UTC] PHP Warning:  require_once(class/php-activerecord/ActiveRecord.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:15:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'class/php-activerecord/ActiveRecord.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 6
+[08-Dec-2017 04:15:41 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ameda/public_html/config.php on line 56
+[08-Dec-2017 04:15:54 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/ameda/public_html/config.php on line 56
+[08-Dec-2017 04:15:56 UTC] PHP Warning:  include(class/Router.php): failed to open stream: No such file or directory in /home/ameda/public_html/config.php on line 30
+[08-Dec-2017 04:15:56 UTC] PHP Warning:  include(): Failed opening 'class/Router.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/config.php on line 30
+[08-Dec-2017 04:15:56 UTC] PHP Fatal error:  Class 'Router' not found in /home/ameda/public_html/config.php on line 33
+[08-Dec-2017 04:20:11 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ameda/public_html/index.php on line 7
+[08-Dec-2017 04:20:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ameda/public_html/index.php on line 7
+[08-Dec-2017 04:23:08 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ameda/public_html/index.php on line 7
+[08-Dec-2017 04:23:14 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/ameda/public_html/index.php on line 7
+[08-Dec-2017 04:26:36 UTC] PHP Fatal error:  Class 'Router' not found in /home/ameda/public_html/config.php on line 33
+[08-Dec-2017 04:28:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:28:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:29:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:29:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:29:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:29:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:30:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:30:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 15
+[08-Dec-2017 04:31:11 UTC] PHP Warning:  include(layouts/.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 18
+[08-Dec-2017 04:31:11 UTC] PHP Warning:  include(): Failed opening 'layouts/.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 18
+[08-Dec-2017 04:33:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ameda/public_html/index.php on line 8
+[08-Dec-2017 04:33:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/ameda/public_html/index.php on line 8
+[08-Dec-2017 04:33:51 UTC] PHP Warning:  include(layouts/app.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 19
+[08-Dec-2017 04:33:51 UTC] PHP Warning:  include(): Failed opening 'layouts/app.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 19
+[08-Dec-2017 04:45:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:9) in /home/ameda/public_html/index.php on line 17
+[08-Dec-2017 04:57:49 UTC] PHP Parse error:  syntax error, unexpected 'validado' (T_STRING), expecting ',' or ';' in /home/ameda/public_html/functions.php on line 55
+[08-Dec-2017 04:59:52 UTC] PHP Fatal error:  Call to undefined function session_active() in /home/ameda/public_html/templates/app/index.php on line 2
+[08-Dec-2017 05:02:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ameda/public_html/functions.php on line 57
+[08-Dec-2017 05:03:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ameda/public_html/functions.php on line 55
+[08-Dec-2017 05:03:10 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ameda/public_html/functions.php on line 55
+[08-Dec-2017 05:03:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ameda/public_html/functions.php on line 55
+[08-Dec-2017 05:15:02 UTC] PHP Warning:  require(app_elements/header.php): failed to open stream: No such file or directory in /home/ameda/public_html/layouts/app.php on line 12
+[08-Dec-2017 05:15:02 UTC] PHP Fatal error:  require(): Failed opening required 'app_elements/header.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/layouts/app.php on line 12
+[08-Dec-2017 05:43:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ameda/public_html/functions.php on line 56
+[08-Dec-2017 05:43:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ameda/public_html/functions.php on line 56
+[08-Dec-2017 05:46:21 UTC] PHP Warning:  include(layouts/1.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:46:21 UTC] PHP Warning:  include(): Failed opening 'layouts/1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:46:48 UTC] PHP Warning:  include(layouts/1.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:46:48 UTC] PHP Warning:  include(): Failed opening 'layouts/1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:46:49 UTC] PHP Warning:  include(layouts/1.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:46:49 UTC] PHP Warning:  include(): Failed opening 'layouts/1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:46:51 UTC] PHP Warning:  include(layouts/1.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:46:51 UTC] PHP Warning:  include(): Failed opening 'layouts/1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:47:25 UTC] PHP Warning:  include(layouts/1.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:47:25 UTC] PHP Warning:  include(): Failed opening 'layouts/1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 20
+[08-Dec-2017 05:47:52 UTC] PHP Warning:  include(layouts/1.php): failed to open stream: No such file or directory in /home/ameda/public_html/index.php on line 21
+[08-Dec-2017 05:47:52 UTC] PHP Warning:  include(): Failed opening 'layouts/1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ameda/public_html/index.php on line 21
+[08-Dec-2017 05:48:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ameda/public_html/index.php:7) in /home/ameda/public_html/index.php on line 16
+[08-Dec-2017 06:09:36 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK) in /home/ameda/public_html/templates/auth/index.php on line 7
+[08-Dec-2017 06:12:20 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/ameda/public_html/templates/auth/index.php on line 6
+[08-Dec-2017 06:12:36 UTC] PHP Parse error:  syntax error, unexpected 'require' (T_REQUIRE) in /home/ameda/public_html/templates/auth/index.php on line 6
+[08-Dec-2017 07:29:41 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ameda/public_html/templates/api/users/index.php on line 11
+[08-Dec-2017 07:30:18 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ameda/public_html/templates/api/users/index.php on line 11
+[08-Dec-2017 07:32:39 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\DatabaseException' with message 'exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ameda_db.TBL_users' doesn't exist' in /home/ameda/public_html/classes/php-activerecord/lib/Connection.php:333
+Stack trace:
+#0 /home/ameda/public_html/classes/php-activerecord/lib/Connection.php(333): PDOStatement->execute(Array)
+#1 /home/ameda/public_html/classes/php-activerecord/lib/adapters/MysqlAdapter.php(25): ActiveRecord\Connection->query('SHOW COLUMNS FR...')
+#2 /home/ameda/public_html/classes/php-activerecord/lib/Connection.php(275): ActiveRecord\MysqlAdapter->query_column_info('`TBL_users`')
+#3 /home/ameda/public_html/classes/php-activerecord/lib/Table.php(402): ActiveRecord\Connection->columns('`TBL_users`')
+#4 /home/ameda/public_html/classes/php-activerecord/lib/Cache.php(73): ActiveRecord\Table->ActiveRecord\{closure}()
+#5 /home/ameda/public_html/classes/php-activerecord/lib/Table.php(402): ActiveRecord\Cache::get('get_meta_data-`...',  in /home/ameda/public_html/classes/php-activerecord/lib/Connection.php on line 336
+[08-Dec-2017 08:25:48 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\UndefinedPropertyException' with message 'Undefined property: Cartola_detalle_estado->ID_CARTOLA in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:540
+Stack trace:
+#0 /home/ameda/public_html/classes/php-activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('ID_CARTOLA')
+#1 /home/ameda/public_html/templates/app/cartola/index.php(33): ActiveRecord\Model->__get('ID_CARTOLA')
+#2 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#3 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#4 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540
+[08-Dec-2017 08:26:25 UTC] PHP Catchable fatal error:  Object of class Cartola_detalle_estado could not be converted to string in /home/ameda/public_html/templates/app/cartola/index.php on line 33
+[08-Dec-2017 08:27:02 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\RecordNotFound' with message 'Couldn't find Cartola_detalle_estado without an ID' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:1575
+Stack trace:
+#0 /home/ameda/public_html/templates/app/cartola/index.php(30): ActiveRecord\Model::find()
+#1 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#2 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#3 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 1575
+[08-Dec-2017 08:27:05 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\RecordNotFound' with message 'Couldn't find Cartola_detalle_estado without an ID' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:1575
+Stack trace:
+#0 /home/ameda/public_html/templates/app/cartola/index.php(30): ActiveRecord\Model::find()
+#1 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#2 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#3 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 1575
+[08-Dec-2017 08:27:20 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\RecordNotFound' with message 'Couldn't find Cartola_detalle_estado without an ID' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:1575
+Stack trace:
+#0 /home/ameda/public_html/templates/app/cartola/index.php(30): ActiveRecord\Model::find()
+#1 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#2 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#3 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 1575
+[08-Dec-2017 08:27:23 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\ActiveRecordException' with message 'Call to undefined method: findAll' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:1401
+Stack trace:
+#0 /home/ameda/public_html/templates/app/cartola/index.php(30): ActiveRecord\Model::__callStatic('findAll', Array)
+#1 /home/ameda/public_html/templates/app/cartola/index.php(30): Cartola_detalle_estado::findAll()
+#2 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#3 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#4 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 1401
+[08-Dec-2017 08:28:26 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\UndefinedPropertyException' with message 'Undefined property: Cartola_detalle_estado->ID_CARTOLA in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:540
+Stack trace:
+#0 /home/ameda/public_html/classes/php-activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('ID_CARTOLA')
+#1 /home/ameda/public_html/templates/app/cartola/index.php(33): ActiveRecord\Model->__get('ID_CARTOLA')
+#2 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#3 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#4 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540
+[08-Dec-2017 08:28:35 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\UndefinedPropertyException' with message 'Undefined property: Cartola_detalle_estado->ID_CARTOLA in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:540
+Stack trace:
+#0 /home/ameda/public_html/classes/php-activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('ID_CARTOLA')
+#1 /home/ameda/public_html/templates/app/cartola/index.php(33): ActiveRecord\Model->__get('ID_CARTOLA')
+#2 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#3 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#4 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540
+[08-Dec-2017 08:29:41 UTC] PHP Fatal error:  Uncaught exception 'ActiveRecord\UndefinedPropertyException' with message 'Undefined property: Cartola_detalle_estado->ID_CARTOLA in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540' in /home/ameda/public_html/classes/php-activerecord/lib/Model.php:540
+Stack trace:
+#0 /home/ameda/public_html/classes/php-activerecord/lib/Model.php(345): ActiveRecord\Model->read_attribute('ID_CARTOLA')
+#1 /home/ameda/public_html/templates/app/cartola/index.php(33): ActiveRecord\Model->__get('ID_CARTOLA')
+#2 /home/ameda/public_html/templates/app/index.php(5): require('/home/ameda/pub...')
+#3 /home/ameda/public_html/index.php(11): include('/home/ameda/pub...')
+#4 {main}
+  thrown in /home/ameda/public_html/classes/php-activerecord/lib/Model.php on line 540

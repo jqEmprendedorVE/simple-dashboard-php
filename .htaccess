@@ -1,0 +1,18 @@
+<IfModule mod_rewrite.c>
+
+	RewriteEngine On
+
+	#REWRITE RULES
+	#---------------------
+
+	#RULE REDIRECTRULE 
+  RewriteCond %{HTTP} off
+	RewriteCond %{HTTP_HOST} ^www.ameda.cl$
+	RewriteRule ^(.*)$ http://www.ameda.cl/$0 [r=301,L]
+
+	#RULE REWRITERULE 
+	RewriteCond %{REQUEST_FILENAME} !-f
+	#RewriteCond %{URL} !-f
+	RewriteRule ^(.*)$ index.php?q=$0 [L]
+
+</IfModule>
